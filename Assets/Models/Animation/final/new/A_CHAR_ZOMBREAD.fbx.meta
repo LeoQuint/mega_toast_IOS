@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 73c2842ab64766641bcb8bbbc8c6e8cc
+timeCreated: 1470765896
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Zombread_Rig3:bread_002
+    100004: Zombread_Rig3:Chest_Control
+    100006: Zombread_Rig3:Chest_JNT_bind
+    100008: Zombread_Rig3:God_Control
+    100010: Zombread_Rig3:Head_JNT_end
+    100012: Zombread_Rig3:Hip_Control
+    100014: Zombread_Rig3:Hip_JNT_bind
+    100016: Zombread_Rig3:LeftArm_Elbow_FK_Control
+    100018: Zombread_Rig3:LeftArm_Elbow_JNT_bind
+    100020: Zombread_Rig3:LeftArm_JNT_end
+    100022: Zombread_Rig3:LeftArm_Shoulder_FK_Control
+    100024: Zombread_Rig3:LeftArm_Shoulder_JNT_bind
+    100026: Zombread_Rig3:LeftLeg_JNT_end
+    100028: Zombread_Rig3:LeftLeg_JNT_FK_end
+    100030: Zombread_Rig3:LeftLeg_JNT_IK_end
+    100032: Zombread_Rig3:LeftLeg_Knee_FK_Control
+    100034: Zombread_Rig3:LeftLeg_Knee_JNT_bind
+    100036: Zombread_Rig3:LeftLeg_Knee_JNT_FK
+    100038: Zombread_Rig3:LeftLeg_Knee_JNT_IK
+    100040: Zombread_Rig3:LeftLeg_Thigh_FK_Control
+    100042: Zombread_Rig3:LeftLeg_Thigh_JNT_bind
+    100044: Zombread_Rig3:LeftLeg_Thigh_JNT_FK
+    100046: Zombread_Rig3:LeftLeg_Thigh_JNT_IK
+    100048: Zombread_Rig3:RightArm_Elbow_FK_Control
+    100050: Zombread_Rig3:RightArm_Elbow_JNT_bind
+    100052: Zombread_Rig3:RightArm_JNT_end
+    100054: Zombread_Rig3:RightArm_Shoulder_FK_Control
+    100056: Zombread_Rig3:RightArm_Shoulder_JNT_bind
+    100058: Zombread_Rig3:RightLeg_JNT_end
+    100060: Zombread_Rig3:RightLeg_JNT_FK_end
+    100062: Zombread_Rig3:RightLeg_JNT_IK_end
+    100064: Zombread_Rig3:RightLeg_Knee_FK_Control
+    100066: Zombread_Rig3:RightLeg_Knee_JNT_bind
+    100068: Zombread_Rig3:RightLeg_Knee_JNT_FK
+    100070: Zombread_Rig3:RightLeg_Knee_JNT_IK
+    100072: Zombread_Rig3:RightLeg_Thigh_FK_Control
+    100074: Zombread_Rig3:RightLeg_Thigh_JNT_bind
+    100076: Zombread_Rig3:RightLeg_Thigh_JNT_FK
+    100078: Zombread_Rig3:RightLeg_Thigh_JNT_IK
+    100080: Zombread_Rig3:Stomach_Control
+    100082: Zombread_Rig3:Stomach_JNT_bind
+    400000: //RootNode
+    400002: Zombread_Rig3:bread_002
+    400004: Zombread_Rig3:Chest_Control
+    400006: Zombread_Rig3:Chest_JNT_bind
+    400008: Zombread_Rig3:God_Control
+    400010: Zombread_Rig3:Head_JNT_end
+    400012: Zombread_Rig3:Hip_Control
+    400014: Zombread_Rig3:Hip_JNT_bind
+    400016: Zombread_Rig3:LeftArm_Elbow_FK_Control
+    400018: Zombread_Rig3:LeftArm_Elbow_JNT_bind
+    400020: Zombread_Rig3:LeftArm_JNT_end
+    400022: Zombread_Rig3:LeftArm_Shoulder_FK_Control
+    400024: Zombread_Rig3:LeftArm_Shoulder_JNT_bind
+    400026: Zombread_Rig3:LeftLeg_JNT_end
+    400028: Zombread_Rig3:LeftLeg_JNT_FK_end
+    400030: Zombread_Rig3:LeftLeg_JNT_IK_end
+    400032: Zombread_Rig3:LeftLeg_Knee_FK_Control
+    400034: Zombread_Rig3:LeftLeg_Knee_JNT_bind
+    400036: Zombread_Rig3:LeftLeg_Knee_JNT_FK
+    400038: Zombread_Rig3:LeftLeg_Knee_JNT_IK
+    400040: Zombread_Rig3:LeftLeg_Thigh_FK_Control
+    400042: Zombread_Rig3:LeftLeg_Thigh_JNT_bind
+    400044: Zombread_Rig3:LeftLeg_Thigh_JNT_FK
+    400046: Zombread_Rig3:LeftLeg_Thigh_JNT_IK
+    400048: Zombread_Rig3:RightArm_Elbow_FK_Control
+    400050: Zombread_Rig3:RightArm_Elbow_JNT_bind
+    400052: Zombread_Rig3:RightArm_JNT_end
+    400054: Zombread_Rig3:RightArm_Shoulder_FK_Control
+    400056: Zombread_Rig3:RightArm_Shoulder_JNT_bind
+    400058: Zombread_Rig3:RightLeg_JNT_end
+    400060: Zombread_Rig3:RightLeg_JNT_FK_end
+    400062: Zombread_Rig3:RightLeg_JNT_IK_end
+    400064: Zombread_Rig3:RightLeg_Knee_FK_Control
+    400066: Zombread_Rig3:RightLeg_Knee_JNT_bind
+    400068: Zombread_Rig3:RightLeg_Knee_JNT_FK
+    400070: Zombread_Rig3:RightLeg_Knee_JNT_IK
+    400072: Zombread_Rig3:RightLeg_Thigh_FK_Control
+    400074: Zombread_Rig3:RightLeg_Thigh_JNT_bind
+    400076: Zombread_Rig3:RightLeg_Thigh_JNT_FK
+    400078: Zombread_Rig3:RightLeg_Thigh_JNT_IK
+    400080: Zombread_Rig3:Stomach_Control
+    400082: Zombread_Rig3:Stomach_JNT_bind
+    4300000: Zombread_Rig3:bread_002
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Zombread_Rig3:bread_002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 273
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Zombread_Rig3:bread_002
+        weight: 1
+      - path: Zombread_Rig3:God_Control
+        weight: 1
+      - path: Zombread_Rig3:God_Control/Zombread_Rig3:Hip_Control
+        weight: 1
+      - path: Zombread_Rig3:God_Control/Zombread_Rig3:Hip_Control/Zombread_Rig3:LeftLeg_Thigh_FK_Control
+        weight: 1
+      - path: Zombread_Rig3:God_Control/Zombread_Rig3:Hip_Control/Zombread_Rig3:LeftLeg_Thigh_FK_Control/Zombread_Rig3:LeftLeg_Knee_FK_Control
+        weight: 1
+      - path: Zombread_Rig3:God_Control/Zombread_Rig3:Hip_Control/Zombread_Rig3:RightLeg_Thigh_FK_Control
+        weight: 1
+      - path: Zombread_Rig3:God_Control/Zombread_Rig3:Hip_Control/Zombread_Rig3:RightLeg_Thigh_FK_Control/Zombread_Rig3:RightLeg_Knee_FK_Control
+        weight: 1
+      - path: Zombread_Rig3:God_Control/Zombread_Rig3:Hip_Control/Zombread_Rig3:Stomach_Control
+        weight: 1
+      - path: Zombread_Rig3:God_Control/Zombread_Rig3:Hip_Control/Zombread_Rig3:Stomach_Control/Zombread_Rig3:Chest_Control
+        weight: 1
+      - path: Zombread_Rig3:God_Control/Zombread_Rig3:Hip_Control/Zombread_Rig3:Stomach_Control/Zombread_Rig3:Chest_Control/Zombread_Rig3:LeftArm_Shoulder_FK_Control
+        weight: 1
+      - path: Zombread_Rig3:God_Control/Zombread_Rig3:Hip_Control/Zombread_Rig3:Stomach_Control/Zombread_Rig3:Chest_Control/Zombread_Rig3:LeftArm_Shoulder_FK_Control/Zombread_Rig3:LeftArm_Elbow_FK_Control
+        weight: 1
+      - path: Zombread_Rig3:God_Control/Zombread_Rig3:Hip_Control/Zombread_Rig3:Stomach_Control/Zombread_Rig3:Chest_Control/Zombread_Rig3:RightArm_Shoulder_FK_Control
+        weight: 1
+      - path: Zombread_Rig3:God_Control/Zombread_Rig3:Hip_Control/Zombread_Rig3:Stomach_Control/Zombread_Rig3:Chest_Control/Zombread_Rig3:RightArm_Shoulder_FK_Control/Zombread_Rig3:RightArm_Elbow_FK_Control
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:LeftLeg_Thigh_JNT_bind
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:LeftLeg_Thigh_JNT_bind/Zombread_Rig3:LeftLeg_Knee_JNT_bind
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:LeftLeg_Thigh_JNT_bind/Zombread_Rig3:LeftLeg_Knee_JNT_bind/Zombread_Rig3:LeftLeg_JNT_end
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:LeftLeg_Thigh_JNT_FK
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:LeftLeg_Thigh_JNT_FK/Zombread_Rig3:LeftLeg_Knee_JNT_FK
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:LeftLeg_Thigh_JNT_FK/Zombread_Rig3:LeftLeg_Knee_JNT_FK/Zombread_Rig3:LeftLeg_JNT_FK_end
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:LeftLeg_Thigh_JNT_IK
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:LeftLeg_Thigh_JNT_IK/Zombread_Rig3:LeftLeg_Knee_JNT_IK
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:LeftLeg_Thigh_JNT_IK/Zombread_Rig3:LeftLeg_Knee_JNT_IK/Zombread_Rig3:LeftLeg_JNT_IK_end
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:RightLeg_Thigh_JNT_bind
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:RightLeg_Thigh_JNT_bind/Zombread_Rig3:RightLeg_Knee_JNT_bind
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:RightLeg_Thigh_JNT_bind/Zombread_Rig3:RightLeg_Knee_JNT_bind/Zombread_Rig3:RightLeg_JNT_end
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:RightLeg_Thigh_JNT_FK
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:RightLeg_Thigh_JNT_FK/Zombread_Rig3:RightLeg_Knee_JNT_FK
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:RightLeg_Thigh_JNT_FK/Zombread_Rig3:RightLeg_Knee_JNT_FK/Zombread_Rig3:RightLeg_JNT_FK_end
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:RightLeg_Thigh_JNT_IK
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:RightLeg_Thigh_JNT_IK/Zombread_Rig3:RightLeg_Knee_JNT_IK
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:RightLeg_Thigh_JNT_IK/Zombread_Rig3:RightLeg_Knee_JNT_IK/Zombread_Rig3:RightLeg_JNT_IK_end
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:Stomach_JNT_bind
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:Stomach_JNT_bind/Zombread_Rig3:Chest_JNT_bind
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:Stomach_JNT_bind/Zombread_Rig3:Chest_JNT_bind/Zombread_Rig3:Head_JNT_end
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:Stomach_JNT_bind/Zombread_Rig3:Chest_JNT_bind/Zombread_Rig3:LeftArm_Shoulder_JNT_bind
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:Stomach_JNT_bind/Zombread_Rig3:Chest_JNT_bind/Zombread_Rig3:LeftArm_Shoulder_JNT_bind/Zombread_Rig3:LeftArm_Elbow_JNT_bind
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:Stomach_JNT_bind/Zombread_Rig3:Chest_JNT_bind/Zombread_Rig3:LeftArm_Shoulder_JNT_bind/Zombread_Rig3:LeftArm_Elbow_JNT_bind/Zombread_Rig3:LeftArm_JNT_end
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:Stomach_JNT_bind/Zombread_Rig3:Chest_JNT_bind/Zombread_Rig3:RightArm_Shoulder_JNT_bind
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:Stomach_JNT_bind/Zombread_Rig3:Chest_JNT_bind/Zombread_Rig3:RightArm_Shoulder_JNT_bind/Zombread_Rig3:RightArm_Elbow_JNT_bind
+        weight: 1
+      - path: Zombread_Rig3:Hip_JNT_bind/Zombread_Rig3:Stomach_JNT_bind/Zombread_Rig3:Chest_JNT_bind/Zombread_Rig3:RightArm_Shoulder_JNT_bind/Zombread_Rig3:RightArm_Elbow_JNT_bind/Zombread_Rig3:RightArm_JNT_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 954725efab456584395235676915897a
+timeCreated: 1470064909
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bagel_Rig3:bagel2
+    100004: Bagel_Rig3:Foot_Control
+    100006: Bagel_Rig3:Foot_JNT_bind
+    100008: Bagel_Rig3:God_Control
+    100010: Bagel_Rig3:Head_Control
+    100012: Bagel_Rig3:Head_JNT_bind
+    100014: Bagel_Rig3:Head_JNT_end
+    100016: Bagel_Rig3:Hip_Control
+    100018: Bagel_Rig3:Knee_JNT_bind
+    100020: Bagel_Rig3:Left_Side_Control
+    100022: Bagel_Rig3:Left_Side_JNT_bind
+    100024: Bagel_Rig3:Left_Side_JNT_end
+    100026: Bagel_Rig3:Right_Side_Control
+    100028: Bagel_Rig3:Right_Side_JNT_bind
+    100030: Bagel_Rig3:Right_Side_JNT_end
+    100032: Bagel_Rig3:Torso_Control
+    100034: Bagel_Rig3:Torso_JNT_bind
+    400000: //RootNode
+    400002: Bagel_Rig3:bagel2
+    400004: Bagel_Rig3:Foot_Control
+    400006: Bagel_Rig3:Foot_JNT_bind
+    400008: Bagel_Rig3:God_Control
+    400010: Bagel_Rig3:Head_Control
+    400012: Bagel_Rig3:Head_JNT_bind
+    400014: Bagel_Rig3:Head_JNT_end
+    400016: Bagel_Rig3:Hip_Control
+    400018: Bagel_Rig3:Knee_JNT_bind
+    400020: Bagel_Rig3:Left_Side_Control
+    400022: Bagel_Rig3:Left_Side_JNT_bind
+    400024: Bagel_Rig3:Left_Side_JNT_end
+    400026: Bagel_Rig3:Right_Side_Control
+    400028: Bagel_Rig3:Right_Side_JNT_bind
+    400030: Bagel_Rig3:Right_Side_JNT_end
+    400032: Bagel_Rig3:Torso_Control
+    400034: Bagel_Rig3:Torso_JNT_bind
+    4300000: Bagel_Rig3:bagel2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Bagel_Rig3:bagel2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bagel_Rig3:bagel2
+        weight: 1
+      - path: Bagel_Rig3:Foot_JNT_bind
+        weight: 1
+      - path: Bagel_Rig3:Foot_JNT_bind/Bagel_Rig3:Knee_JNT_bind
+        weight: 1
+      - path: Bagel_Rig3:Foot_JNT_bind/Bagel_Rig3:Knee_JNT_bind/Bagel_Rig3:Torso_JNT_bind
+        weight: 1
+      - path: Bagel_Rig3:Foot_JNT_bind/Bagel_Rig3:Knee_JNT_bind/Bagel_Rig3:Torso_JNT_bind/Bagel_Rig3:Head_JNT_bind
+        weight: 1
+      - path: Bagel_Rig3:Foot_JNT_bind/Bagel_Rig3:Knee_JNT_bind/Bagel_Rig3:Torso_JNT_bind/Bagel_Rig3:Head_JNT_bind/Bagel_Rig3:Head_JNT_end
+        weight: 1
+      - path: Bagel_Rig3:Foot_JNT_bind/Bagel_Rig3:Knee_JNT_bind/Bagel_Rig3:Torso_JNT_bind/Bagel_Rig3:Left_Side_JNT_bind
+        weight: 1
+      - path: Bagel_Rig3:Foot_JNT_bind/Bagel_Rig3:Knee_JNT_bind/Bagel_Rig3:Torso_JNT_bind/Bagel_Rig3:Left_Side_JNT_bind/Bagel_Rig3:Left_Side_JNT_end
+        weight: 1
+      - path: Bagel_Rig3:Foot_JNT_bind/Bagel_Rig3:Knee_JNT_bind/Bagel_Rig3:Torso_JNT_bind/Bagel_Rig3:Right_Side_JNT_bind
+        weight: 1
+      - path: Bagel_Rig3:Foot_JNT_bind/Bagel_Rig3:Knee_JNT_bind/Bagel_Rig3:Torso_JNT_bind/Bagel_Rig3:Right_Side_JNT_bind/Bagel_Rig3:Right_Side_JNT_end
+        weight: 1
+      - path: Bagel_Rig3:God_Control
+        weight: 1
+      - path: Bagel_Rig3:God_Control/Bagel_Rig3:Foot_Control
+        weight: 1
+      - path: Bagel_Rig3:God_Control/Bagel_Rig3:Foot_Control/Bagel_Rig3:Hip_Control
+        weight: 1
+      - path: Bagel_Rig3:God_Control/Bagel_Rig3:Foot_Control/Bagel_Rig3:Hip_Control/Bagel_Rig3:Torso_Control
+        weight: 1
+      - path: Bagel_Rig3:God_Control/Bagel_Rig3:Foot_Control/Bagel_Rig3:Hip_Control/Bagel_Rig3:Torso_Control/Bagel_Rig3:Head_Control
+        weight: 1
+      - path: Bagel_Rig3:God_Control/Bagel_Rig3:Foot_Control/Bagel_Rig3:Hip_Control/Bagel_Rig3:Torso_Control/Bagel_Rig3:Left_Side_Control
+        weight: 1
+      - path: Bagel_Rig3:God_Control/Bagel_Rig3:Foot_Control/Bagel_Rig3:Hip_Control/Bagel_Rig3:Torso_Control/Bagel_Rig3:Right_Side_Control
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

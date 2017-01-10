@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: b6955b112f96e60468079cac987c6061
+timeCreated: 1465242738
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: toast_Rig7:Chest_Control
+    100004: toast_Rig7:Chest_JNT_bind
+    100006: toast_Rig7:God_Control
+    100008: toast_Rig7:Head_JNT_end
+    100010: toast_Rig7:Hip_Control
+    100012: toast_Rig7:Hip_JNT_bind
+    100014: toast_Rig7:LeftArm_Elbow_FK_Control
+    100016: toast_Rig7:LeftArm_Elbow_JNT_bind
+    100018: toast_Rig7:LeftArm_JNT_end
+    100020: toast_Rig7:LeftArm_Shoulder_FK_Control
+    100022: toast_Rig7:LeftArm_Shoulder_JNT_bind
+    100024: toast_Rig7:LeftLeg_JNT_end
+    100026: toast_Rig7:LeftLeg_JNT_FK_end
+    100028: toast_Rig7:LeftLeg_JNT_IK_end
+    100030: toast_Rig7:LeftLeg_Knee_FK_Control
+    100032: toast_Rig7:LeftLeg_Knee_JNT_bind
+    100034: toast_Rig7:LeftLeg_Knee_JNT_FK
+    100036: toast_Rig7:LeftLeg_Knee_JNT_IK
+    100038: toast_Rig7:LeftLeg_Thigh_FK_Control
+    100040: toast_Rig7:LeftLeg_Thigh_JNT_bind
+    100042: toast_Rig7:LeftLeg_Thigh_JNT_FK
+    100044: toast_Rig7:LeftLeg_Thigh_JNT_IK
+    100046: toast_Rig7:RightArm_Elbow_FK_Control
+    100048: toast_Rig7:RightArm_Elbow_JNT_bind
+    100050: toast_Rig7:RightArm_JNT_end
+    100052: toast_Rig7:RightArm_Shoulder_FK_Control
+    100054: toast_Rig7:RightArm_Shoulder_JNT_bind
+    100056: toast_Rig7:RightLeg_JNT_end
+    100058: toast_Rig7:RightLeg_JNT_FK_end
+    100060: toast_Rig7:RightLeg_JNT_IK_end
+    100062: toast_Rig7:RightLeg_Knee_FK_Control
+    100064: toast_Rig7:RightLeg_Knee_JNT_bind
+    100066: toast_Rig7:RightLeg_Knee_JNT_FK
+    100068: toast_Rig7:RightLeg_Knee_JNT_IK
+    100070: toast_Rig7:RightLeg_Thigh_FK_Control
+    100072: toast_Rig7:RightLeg_Thigh_JNT_bind
+    100074: toast_Rig7:RightLeg_Thigh_JNT_FK
+    100076: toast_Rig7:RightLeg_Thigh_JNT_IK
+    100078: toast_Rig7:Stomach_Control
+    100080: toast_Rig7:Stomach_JNT_bind
+    100082: toast_Rig7:toast
+    400000: //RootNode
+    400002: toast_Rig7:Chest_Control
+    400004: toast_Rig7:Chest_JNT_bind
+    400006: toast_Rig7:God_Control
+    400008: toast_Rig7:Head_JNT_end
+    400010: toast_Rig7:Hip_Control
+    400012: toast_Rig7:Hip_JNT_bind
+    400014: toast_Rig7:LeftArm_Elbow_FK_Control
+    400016: toast_Rig7:LeftArm_Elbow_JNT_bind
+    400018: toast_Rig7:LeftArm_JNT_end
+    400020: toast_Rig7:LeftArm_Shoulder_FK_Control
+    400022: toast_Rig7:LeftArm_Shoulder_JNT_bind
+    400024: toast_Rig7:LeftLeg_JNT_end
+    400026: toast_Rig7:LeftLeg_JNT_FK_end
+    400028: toast_Rig7:LeftLeg_JNT_IK_end
+    400030: toast_Rig7:LeftLeg_Knee_FK_Control
+    400032: toast_Rig7:LeftLeg_Knee_JNT_bind
+    400034: toast_Rig7:LeftLeg_Knee_JNT_FK
+    400036: toast_Rig7:LeftLeg_Knee_JNT_IK
+    400038: toast_Rig7:LeftLeg_Thigh_FK_Control
+    400040: toast_Rig7:LeftLeg_Thigh_JNT_bind
+    400042: toast_Rig7:LeftLeg_Thigh_JNT_FK
+    400044: toast_Rig7:LeftLeg_Thigh_JNT_IK
+    400046: toast_Rig7:RightArm_Elbow_FK_Control
+    400048: toast_Rig7:RightArm_Elbow_JNT_bind
+    400050: toast_Rig7:RightArm_JNT_end
+    400052: toast_Rig7:RightArm_Shoulder_FK_Control
+    400054: toast_Rig7:RightArm_Shoulder_JNT_bind
+    400056: toast_Rig7:RightLeg_JNT_end
+    400058: toast_Rig7:RightLeg_JNT_FK_end
+    400060: toast_Rig7:RightLeg_JNT_IK_end
+    400062: toast_Rig7:RightLeg_Knee_FK_Control
+    400064: toast_Rig7:RightLeg_Knee_JNT_bind
+    400066: toast_Rig7:RightLeg_Knee_JNT_FK
+    400068: toast_Rig7:RightLeg_Knee_JNT_IK
+    400070: toast_Rig7:RightLeg_Thigh_FK_Control
+    400072: toast_Rig7:RightLeg_Thigh_JNT_bind
+    400074: toast_Rig7:RightLeg_Thigh_JNT_FK
+    400076: toast_Rig7:RightLeg_Thigh_JNT_IK
+    400078: toast_Rig7:Stomach_Control
+    400080: toast_Rig7:Stomach_JNT_bind
+    400082: toast_Rig7:toast
+    4300000: toast_Rig7:toast
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: toast_Rig7:toast
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: toast_Rig7:God_Control
+        weight: 1
+      - path: toast_Rig7:God_Control/toast_Rig7:Hip_Control
+        weight: 1
+      - path: toast_Rig7:God_Control/toast_Rig7:Hip_Control/toast_Rig7:LeftLeg_Thigh_FK_Control
+        weight: 1
+      - path: toast_Rig7:God_Control/toast_Rig7:Hip_Control/toast_Rig7:LeftLeg_Thigh_FK_Control/toast_Rig7:LeftLeg_Knee_FK_Control
+        weight: 1
+      - path: toast_Rig7:God_Control/toast_Rig7:Hip_Control/toast_Rig7:RightLeg_Thigh_FK_Control
+        weight: 1
+      - path: toast_Rig7:God_Control/toast_Rig7:Hip_Control/toast_Rig7:RightLeg_Thigh_FK_Control/toast_Rig7:RightLeg_Knee_FK_Control
+        weight: 1
+      - path: toast_Rig7:God_Control/toast_Rig7:Hip_Control/toast_Rig7:Stomach_Control
+        weight: 1
+      - path: toast_Rig7:God_Control/toast_Rig7:Hip_Control/toast_Rig7:Stomach_Control/toast_Rig7:Chest_Control
+        weight: 1
+      - path: toast_Rig7:God_Control/toast_Rig7:Hip_Control/toast_Rig7:Stomach_Control/toast_Rig7:Chest_Control/toast_Rig7:LeftArm_Shoulder_FK_Control
+        weight: 1
+      - path: toast_Rig7:God_Control/toast_Rig7:Hip_Control/toast_Rig7:Stomach_Control/toast_Rig7:Chest_Control/toast_Rig7:LeftArm_Shoulder_FK_Control/toast_Rig7:LeftArm_Elbow_FK_Control
+        weight: 1
+      - path: toast_Rig7:God_Control/toast_Rig7:Hip_Control/toast_Rig7:Stomach_Control/toast_Rig7:Chest_Control/toast_Rig7:RightArm_Shoulder_FK_Control
+        weight: 1
+      - path: toast_Rig7:God_Control/toast_Rig7:Hip_Control/toast_Rig7:Stomach_Control/toast_Rig7:Chest_Control/toast_Rig7:RightArm_Shoulder_FK_Control/toast_Rig7:RightArm_Elbow_FK_Control
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:LeftLeg_Thigh_JNT_bind
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:LeftLeg_Thigh_JNT_bind/toast_Rig7:LeftLeg_Knee_JNT_bind
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:LeftLeg_Thigh_JNT_bind/toast_Rig7:LeftLeg_Knee_JNT_bind/toast_Rig7:LeftLeg_JNT_end
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:LeftLeg_Thigh_JNT_FK
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:LeftLeg_Thigh_JNT_FK/toast_Rig7:LeftLeg_Knee_JNT_FK
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:LeftLeg_Thigh_JNT_FK/toast_Rig7:LeftLeg_Knee_JNT_FK/toast_Rig7:LeftLeg_JNT_FK_end
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:LeftLeg_Thigh_JNT_IK
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:LeftLeg_Thigh_JNT_IK/toast_Rig7:LeftLeg_Knee_JNT_IK
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:LeftLeg_Thigh_JNT_IK/toast_Rig7:LeftLeg_Knee_JNT_IK/toast_Rig7:LeftLeg_JNT_IK_end
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:RightLeg_Thigh_JNT_bind
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:RightLeg_Thigh_JNT_bind/toast_Rig7:RightLeg_Knee_JNT_bind
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:RightLeg_Thigh_JNT_bind/toast_Rig7:RightLeg_Knee_JNT_bind/toast_Rig7:RightLeg_JNT_end
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:RightLeg_Thigh_JNT_FK
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:RightLeg_Thigh_JNT_FK/toast_Rig7:RightLeg_Knee_JNT_FK
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:RightLeg_Thigh_JNT_FK/toast_Rig7:RightLeg_Knee_JNT_FK/toast_Rig7:RightLeg_JNT_FK_end
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:RightLeg_Thigh_JNT_IK
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:RightLeg_Thigh_JNT_IK/toast_Rig7:RightLeg_Knee_JNT_IK
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:RightLeg_Thigh_JNT_IK/toast_Rig7:RightLeg_Knee_JNT_IK/toast_Rig7:RightLeg_JNT_IK_end
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:Stomach_JNT_bind
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:Stomach_JNT_bind/toast_Rig7:Chest_JNT_bind
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:Stomach_JNT_bind/toast_Rig7:Chest_JNT_bind/toast_Rig7:Head_JNT_end
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:Stomach_JNT_bind/toast_Rig7:Chest_JNT_bind/toast_Rig7:LeftArm_Shoulder_JNT_bind
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:Stomach_JNT_bind/toast_Rig7:Chest_JNT_bind/toast_Rig7:LeftArm_Shoulder_JNT_bind/toast_Rig7:LeftArm_Elbow_JNT_bind
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:Stomach_JNT_bind/toast_Rig7:Chest_JNT_bind/toast_Rig7:LeftArm_Shoulder_JNT_bind/toast_Rig7:LeftArm_Elbow_JNT_bind/toast_Rig7:LeftArm_JNT_end
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:Stomach_JNT_bind/toast_Rig7:Chest_JNT_bind/toast_Rig7:RightArm_Shoulder_JNT_bind
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:Stomach_JNT_bind/toast_Rig7:Chest_JNT_bind/toast_Rig7:RightArm_Shoulder_JNT_bind/toast_Rig7:RightArm_Elbow_JNT_bind
+        weight: 1
+      - path: toast_Rig7:Hip_JNT_bind/toast_Rig7:Stomach_JNT_bind/toast_Rig7:Chest_JNT_bind/toast_Rig7:RightArm_Shoulder_JNT_bind/toast_Rig7:RightArm_Elbow_JNT_bind/toast_Rig7:RightArm_JNT_end
+        weight: 1
+      - path: toast_Rig7:toast
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

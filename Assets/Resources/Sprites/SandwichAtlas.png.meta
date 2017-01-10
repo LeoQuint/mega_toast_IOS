@@ -1,0 +1,1192 @@
+fileFormatVersion: 2
+guid: e7299db0f9fb2f54ea57f63303240aab
+timeCreated: 1468168747
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sandwich-Hero---Spread-Open_0
+    21300002: Sandwich-Hero---Spread-Open_1
+    21300004: Sandwich-Hero---Spread-Open_2
+    21300006: Sandwich-Hero---Spread-Open_3
+    21300008: Sandwich-Hero---Spread-Open_4
+    21300010: Sandwich-Hero---Spread-Open_5
+    21300012: Sandwich-Hero---Spread-Open_6
+    21300014: Sandwich-Hero---Spread-Open_7
+    21300016: Sandwich-Hero---Spread-Open_8
+    21300018: Sandwich-Hero---Spread-Open_9
+    21300020: Sandwich-Hero---Spread-Open_10
+    21300022: Sandwich-Hero---Spread-Open_11
+    21300024: Sandwich-Hero---Spread-Open_12
+    21300026: Sandwich-Hero---Spread-Open_13
+    21300028: Sandwich-Hero---Spread-Open_14
+    21300030: Sandwich-Hero---Spread-Open_15
+    21300032: Sandwich-Hero---Spread-Open_16
+    21300034: Sandwich-Hero---Spread-Open_17
+    21300036: Sandwich-Hero---Spread-Open_18
+    21300038: Sandwich-Hero---Spread-Open_19
+    21300040: Sandwich-Hero---Spread-Open_20
+    21300042: Sandwich-Hero---Spread-Open_21
+    21300044: Sandwich-Hero---Spread-Open_22
+    21300046: Sandwich-Hero---Spread-Open_23
+    21300048: Sandwich-Hero---Spread-Open_24
+    21300050: Sandwich-Hero---Spread-Open_25
+    21300052: Sandwich-Hero---Spread-Open_26
+    21300054: Sandwich-Hero---Spread-Open_27
+    21300056: Sandwich-Hero---Spread-Open_28
+    21300058: Sandwich-Hero---Spread-Open_29
+    21300060: Sandwich-Hero---Spread-Open_30
+    21300062: Sandwich-Hero---Spread-Open_31
+    21300064: Sandwich-Hero---Spread-Open_32
+    21300066: Sandwich-Hero---Spread-Open_33
+    21300068: Sandwich-Hero---Spread-Open_34
+    21300070: Sandwich-Hero---Spread-Open_35
+    21300072: Sandwich-Hero---Spread-Open_36
+    21300074: Sandwich-Hero---Spread-Open_37
+    21300076: Sandwich-Hero---Spread-Open_38
+    21300078: Sandwich-Hero---Spread-Open_39
+    21300080: Sandwich-Hero---Spread-Open_40
+    21300082: Sandwich-Hero---Spread-Open_41
+    21300084: Sandwich-Hero---Spread-Open_42
+    21300086: Sandwich-Hero---Spread-Open_43
+    21300088: Sandwich-Hero---Spread-Open_44
+    21300090: Sandwich-Hero---Spread-Open_45
+    21300092: Sandwich-Hero---Spread-Open_46
+    21300094: Sandwich-Hero---Spread-Open_47
+    21300096: Sandwich-Hero---Spread-Open_48
+    21300098: Sandwich-Hero---Spread-Open_49
+    21300100: Sandwich-Hero---Spread-Open_50
+    21300102: Sandwich-Hero---Spread-Open_51
+    21300104: Sandwich-Hero---Spread-Open_52
+    21300106: Sandwich-Hero---Spread-Open_53
+    21300108: Sandwich-Hero---Spread-Open_54
+    21300110: Sandwich-Hero---Spread-Open_55
+    21300112: Sandwich-Hero---Spread-Open_56
+    21300114: Sandwich-Hero---Spread-Open_57
+    21300116: Sandwich-Hero---Spread-Open_58
+    21300118: Sandwich-Hero---Spread-Open_59
+    21300120: Sandwich-Hero---Spread-Open_60
+    21300122: Sandwich-Hero---Spread-Open_61
+    21300124: Sandwich-Hero---Spread-Open_62
+    21300126: Sandwich-Hero---Spread-Open_63
+    21300128: Sandwich-Hero---Spread-Open_64
+    21300130: Sandwich-Hero---Spread-Open_65
+    21300132: Sandwich-Hero---Spread-Open_66
+    21300134: Sandwich-Hero---Spread-Open_67
+    21300136: Sandwich-Hero---Spread-Open_68
+    21300138: Sandwich-Hero---Spread-Open_69
+    21300140: Sandwich-Hero---Spread-Open_70
+    21300142: Sandwich-Hero---Spread-Open_71
+    21300144: Sandwich-Hero---Spread-Open_72
+    21300146: Sandwich-Hero---Spread-Open_73
+    21300148: Sandwich-Hero---Spread-Open_74
+    21300150: Sandwich-Hero---Spread-Open_75
+    21300152: Sandwich-Hero---Spread-Open_76
+    21300154: Sandwich-Hero---Spread-Open_77
+    21300156: Sandwich-Hero---Spread-Open_78
+    21300158: Sandwich-Hero---Spread-Open_79
+    21300160: Sandwich-Hero---Spread-Open_80
+    21300162: Sandwich-Hero---Spread-Open_81
+    21300164: Sandwich-Hero---Spread-Open_82
+    21300166: Sandwich-Hero---Spread-Open_83
+    21300168: Sandwich-Hero---Spread-Open_84
+    21300170: Sandwich-Hero---Spread-Open_85
+    21300172: Sandwich-Hero---Spread-Open_86
+    21300174: Sandwich-Hero---Spread-Open_87
+    21300176: Sandwich-Hero---Spread-Open_88
+    21300178: Sandwich-Hero---Spread-Open_89
+    21300180: Sandwich-Hero---Spread-Open_90
+    21300182: Sandwich-Hero---Spread-Open_91
+    21300184: Sandwich-Hero---Spread-Open_92
+    21300186: Sandwich-Hero---Spread-Open_93
+    21300188: Sandwich-Hero---Spread-Open_94
+    21300190: Sandwich-Hero---Spread-Open_95
+    21300192: Sandwich-Hero---Spread-Open_96
+    21300194: Sandwich-Hero---Spread-Open_97
+    21300196: Sandwich-Hero---Spread-Open_98
+    21300198: Sandwich-Hero---Spread-Open_99
+    21300200: Sandwich-Hero---Spread-Open_100
+    21300202: Sandwich-Hero---Spread-Open_101
+    21300204: Sandwich-Hero---Spread-Open_102
+    21300206: Sandwich-Hero---Spread-Open_103
+    21300208: Sandwich-Hero---Spread-Open_104
+    21300210: Sandwich-Hero---Spread-Open_105
+    21300212: Sandwich-Hero---Spread-Open_106
+    21300214: Sandwich-Hero---Spread-Open_107
+    21300216: Sandwich-Hero---Spread-Open_108
+    21300218: Sandwich-Hero---Spread-Open_109
+    21300220: Sandwich-Hero---Spread-Open_110
+    21300222: Sandwich-Hero---Spread-Open_111
+    21300224: Sandwich-Hero---Spread-Open_112
+    21300226: Sandwich-Hero---Spread-Open_113
+    21300228: Sandwich-Hero---Spread-Open_114
+    21300230: Sandwich-Hero---Spread-Open_115
+    21300232: Sandwich-Hero---Spread-Open_116
+    21300234: Sandwich-Hero---Spread-Open_117
+    21300236: Sandwich-Hero---Spread-Open_118
+    21300238: Sandwich-Hero---Spread-Open_119
+    21300240: Sandwich-Hero---Spread-Open_120
+    21300242: Sandwich-Hero---Spread-Open_121
+    21300244: Sandwich-Hero---Spread-Open_122
+    21300246: Sandwich-Hero---Spread-Open_123
+    21300248: Sandwich-Hero---Spread-Open_124
+    21300250: Sandwich-Hero---Spread-Open_125
+    21300252: Sandwich-Hero---Spread-Open_126
+    21300254: Sandwich-Hero---Spread-Open_127
+    21300256: Sandwich-Hero---Spread-Open_128
+    21300258: Sandwich-Hero---Spread-Open_129
+    21300260: Sandwich-Hero---Spread-Open_130
+    21300262: Sandwich-Hero---Spread-Open_131
+    21300264: Sandwich-Hero---Spread-Open_132
+    21300266: Sandwich-Hero---Spread-Open_133
+    21300268: Sandwich-Hero---Spread-Open_134
+    21300270: Sandwich-Hero---Spread-Open_135
+    21300272: Sandwich-Hero---Spread-Open_136
+    21300274: Sandwich-Hero---Spread-Open_137
+    21300276: Sandwich-Hero---Spread-Open_138
+    21300278: Sandwich-Hero---Spread-Open_139
+    21300280: Sandwich-Hero---Spread-Open_140
+    21300282: Sandwich-Hero---Spread-Open_141
+    21300284: Sandwich-Hero---Spread-Open_142
+    21300286: Sandwich-Hero---Spread-Open_143
+    21300288: Sandwich-Hero---Spread-Open_144
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_0
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 5975
+        width: 504
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_1
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 5782
+        width: 660
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_2
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 5878
+        width: 353
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_3
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 6218
+        width: 132
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_8
+      rect:
+        serializedVersion: 2
+        x: 4401
+        y: 4231
+        width: 1248
+        height: 2252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_9
+      rect:
+        serializedVersion: 2
+        x: 5751
+        y: 4151
+        width: 1347
+        height: 2306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_12
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 5824
+        width: 944
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 5020
+        width: 978
+        height: 891
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_18
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 5217
+        width: 933
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_19
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 5274
+        width: 571
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_20
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 5282
+        width: 793
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_21
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 4955
+        width: 140
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_22
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 4974
+        width: 144
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_23
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 4971
+        width: 91
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_24
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 4971
+        width: 87
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_25
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 4963
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_26
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 4966
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_27
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 4963
+        width: 231
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_28
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 4970
+        width: 228
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_29
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 4781
+        width: 155
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_30
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 4633
+        width: 284
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_31
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 4625
+        width: 261
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_32
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 4625
+        width: 267
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_33
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 4595
+        width: 265
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_34
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 4557
+        width: 311
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_35
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 4554
+        width: 353
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_36
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 4569
+        width: 300
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3931
+        width: 113
+        height: 815
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_38
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 4511
+        width: 140
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_39
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 4511
+        width: 140
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_40
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 4265
+        width: 285
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_41
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 4269
+        width: 496
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_42
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 4292
+        width: 390
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_48
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 4087
+        width: 147
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_49
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 4087
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_50
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3939
+        width: 465
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_51
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 3958
+        width: 284
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_53
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 4030
+        width: 540
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_63
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 3434
+        width: 417
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_64
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2475
+        width: 983
+        height: 1511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_65
+      rect:
+        serializedVersion: 2
+        x: 4031
+        y: 3298
+        width: 162
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_66
+      rect:
+        serializedVersion: 2
+        x: 4341
+        y: 3563
+        width: 295
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_68
+      rect:
+        serializedVersion: 2
+        x: 5145
+        y: 3339
+        width: 360
+        height: 531
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_69
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 3339
+        width: 360
+        height: 531
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_70
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3169
+        width: 163
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3161
+        width: 201
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_72
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 3252
+        width: 193
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_73
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 3438
+        width: 664
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_74
+      rect:
+        serializedVersion: 2
+        x: 4731
+        y: 3567
+        width: 220
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_76
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 3138
+        width: 186
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_79
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2894
+        width: 298
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_80
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 2862
+        width: 394
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_81
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 3169
+        width: 197
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_84
+      rect:
+        serializedVersion: 2
+        x: 4582
+        y: 3176
+        width: 172
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_85
+      rect:
+        serializedVersion: 2
+        x: 4815
+        y: 3177
+        width: 193
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_86
+      rect:
+        serializedVersion: 2
+        x: 5145
+        y: 2945
+        width: 234
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_87
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 2945
+        width: 235
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_88
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 2945
+        width: 234
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_89
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 2845
+        width: 402
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_90
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 2592
+        width: 182
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_97
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2835
+        width: 834
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_98
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 2691
+        width: 151
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_109
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1612
+        width: 1009
+        height: 1052
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_110
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 2600
+        width: 290
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_120
+      rect:
+        serializedVersion: 2
+        x: 4337
+        y: 222
+        width: 1308
+        height: 2234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_121
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2342
+        width: 834
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_122
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 275
+        width: 1448
+        height: 2078
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_123
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1948
+        width: 217
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_124
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2023
+        width: 398
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_127
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1622
+        width: 194
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_128
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1701
+        width: 349
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_131
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1356
+        width: 156
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_132
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1379
+        width: 344
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_137
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 317
+        width: 845
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_138
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1151
+        width: 993
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sandwich-Hero---Spread-Open_139
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 964
+        width: 602
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
