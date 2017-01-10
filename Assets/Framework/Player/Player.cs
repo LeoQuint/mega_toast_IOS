@@ -421,7 +421,7 @@ public class Player : MonoBehaviour {
             float forceAdded = jumpForce * Mathf.Pow((0.5f), (1f - powerBar.value));
             if (powerBar.value > 0.99f)
             {
-                GameCenterLoading.instance.AddProgressToPerfectLaunch();
+                //GameCenterLoading.instance.AddProgressToPerfectLaunch();
             }
             rb.AddForce(new Vector3(0f, forceAdded, 0f));
             stepEndRotation = upRotation;
@@ -785,14 +785,14 @@ public class Player : MonoBehaviour {
         }
         else
         {
-            GameCenterLoading.instance.PostToLeaderboard(score);
+            //GameCenterLoading.instance.PostToLeaderboard(score);
             
             int accuracy = (100 - (int)(distance * 100f));
 
             if (distance < m_LandingPerfect)
             {
                 //score += 50;
-                GameCenterLoading.instance.AddProgressToPerfectLanding();
+                //GameCenterLoading.instance.AddProgressToPerfectLanding();
                 landingResult.GetComponent<Text>().text = "Perfect Landing!";
             }
             else if (distance < m_LandingGreat)
@@ -809,7 +809,7 @@ public class Player : MonoBehaviour {
            
             scoreTracker.text = score.ToString();
             //CheckScoreAchievement();
-            GameCenterLoading.instance.AddProgressToCompletedSand();
+            //GameCenterLoading.instance.AddProgressToCompletedSand();
             //GameCenterLoading.instance.AddCoins(score);
             
         }
@@ -840,27 +840,27 @@ public class Player : MonoBehaviour {
     {
         if (count >= 175)
         {
-            GameCenterLoading.instance.UnlockAchievement("CgkIm8DKqdILEAIQEA");
+            //GameCenterLoading.instance.UnlockAchievement("CgkIm8DKqdILEAIQEA");
             return;
         }
         if (count >= 150)
         {
-            GameCenterLoading.instance.UnlockAchievement("CgkIm8DKqdILEAIQDw");
+            //GameCenterLoading.instance.UnlockAchievement("CgkIm8DKqdILEAIQDw");
             return;
         }
         if (count >= 125)
         {
-            GameCenterLoading.instance.UnlockAchievement("CgkIm8DKqdILEAIQEQ");
+            //GameCenterLoading.instance.UnlockAchievement("CgkIm8DKqdILEAIQEQ");
             return;
         }
         if (count >= 100)
         {
-            GameCenterLoading.instance.UnlockAchievement("CgkIm8DKqdILEAIQDg");
+            //GameCenterLoading.instance.UnlockAchievement("CgkIm8DKqdILEAIQDg");
             return;
         }
         if (count >= 75)
         {
-            GameCenterLoading.instance.UnlockAchievement("CgkIm8DKqdILEAIQDQ");
+            //GameCenterLoading.instance.UnlockAchievement("CgkIm8DKqdILEAIQDQ");
         }        
     }
     public void ResetValues()

@@ -131,12 +131,12 @@ public class MenuCTR : MonoBehaviour {
     public void ShowAchievements()
     {
         PlayButton();
-        GameCenterLoading.instance.ShowAchievements();
+        //GameCenterLoading.instance.ShowAchievements();
     }
     public void ShowLeaderboard()
     {
         PlayButton();
-        GameCenterLoading.instance.ShowLeaderboard();
+        //GameCenterLoading.instance.ShowLeaderboard();
     }
 
     public void TogglePauseMenu()
